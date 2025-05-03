@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: -o-linear-gradient(135deg);
+}
+.ass{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 3rem;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgb(0,0,0,1);
+    max-width: 500px;
+    width: 90%;
+    color: blue;
+    font-size: large;
+
+}
+.time{
+    color: rgba(255, 90, 14, 0.959);
+    font-size: medium;
+    margin-top: 1.0rem;
+    font-weight: 500;
+}
